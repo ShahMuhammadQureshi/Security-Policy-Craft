@@ -1,0 +1,324 @@
+Network Size,Connected Devices,Internet Usage,Data Sensitivity,Risk Score,Recommendation
+home,laptops,work,high,25,"1. Enable two-factor authentication for all work-related accounts.
+2. Regularly update software and firmware on laptops.
+3. Utilize a password manager for strong, unique passwords.
+4. Implement network encryption protocols to secure data transmission.
+5. Conduct regular security audits and vulnerability assessments."
+
+home,laptops,work,medium,20,"1. Regularly update software and firmware on laptops.
+2. Implement a password manager for enhanced password security.
+3. Use a virtual private network (VPN) for secure remote access.
+4. Employ endpoint security solutions to detect and prevent threats.
+5. Educate employees on security best practices and phishing awareness."
+
+home,laptops,work,low,17,"1. Maintain regular updates for software and firmware on laptops.
+2. Enable firewall protection to block unauthorized access.
+3. Implement access controls to restrict sensitive data access.
+4. Secure physical access to devices through locks or biometric authentication.
+5. Backup critical data regularly to prevent data loss in case of breaches."
+
+home,laptops,entertainment,high,24,"1. Enable two-factor authentication for entertainment-related accounts on laptops.
+2. Regularly update software and firmware on devices.
+3. Utilize a password manager for strong, unique passwords.
+4. Implement parental controls to restrict access to inappropriate content.
+5. Use ad-blocking software to prevent malicious ads and pop-ups."
+
+home,laptops,entertainment,medium,19,"1. Regularly update software and firmware on laptops.
+2. Implement a password manager for enhanced password security.
+3. Use reputable antivirus software to detect and remove malware.
+4. Limit access to entertainment devices to authorized users.
+5. Secure home network with strong encryption and unique passwords."
+
+home,laptops,entertainment,low,16,"1. Maintain regular updates for software and firmware on laptops.
+2. Use a firewall to block unauthorized network traffic.
+3. Enable automatic updates for software and operating systems.
+4. Implement strong authentication mechanisms for device access.
+5. Educate family members on safe internet browsing habits."
+
+home,laptops,online transactions,high,29,"1. Enable two-factor authentication for online transaction accounts on laptops.
+2. Regularly update software and firmware on devices.
+3. Utilize a password manager for strong, unique passwords.
+4. Use secure payment gateways with encryption for online transactions.
+5. Monitor account activity for unauthorized transactions and unusual behavior."
+
+home,laptops,online transactions,medium,24,"1. Enable two-factor authentication for online transaction accounts on laptops.
+2. Regularly update software and firmware on devices.
+3. Utilize a password manager for strong, unique passwords.
+4. Use secure payment gateways with encryption for online transactions.
+5. Monitor account activity for unauthorized transactions and unusual behavior."
+
+home,laptops,online transactions,low,21,"1. Regularly update software and firmware on laptops.
+2. Implement secure browsing practices to avoid phishing scams and malicious websites.
+3. Use reputable antivirus software to detect and remove malware.
+4. Secure Wi-Fi networks with strong encryption and unique passwords.
+5. Avoid accessing sensitive information or making transactions on public Wi-Fi networks."
+
+home,desktops,work,high,23,"1. Enable two-factor authentication for work-related accounts on desktop devices.
+2. Regularly update software and firmware on devices.
+3. Utilize a password manager for strong, unique passwords.
+4. Encrypt sensitive data stored on desktop devices.
+5. Implement endpoint security solutions to detect and prevent threats."
+
+home,desktops,work,medium,18,"1. Regularly update software and firmware on desktop devices.
+2. Use a password manager to create and manage strong, unique passwords.
+3. Implement access controls to restrict unauthorized access to work-related data.
+4. Backup critical data regularly to prevent data loss in case of breaches.
+5. Train employees on security best practices and safe data handling."
+
+home,desktops,work,low,15,"1. Maintain regular updates for software and firmware on desktop devices.
+2. Enable firewall protection to block unauthorized access.
+3. Implement secure authentication methods, such as biometric or token-based authentication.
+4. Secure physical access to devices through locks or restricted access areas.
+5. Conduct regular security assessments and audits to identify vulnerabilities."
+
+home,desktops,entertainment,high,22,"1. Enable two-factor authentication for entertainment-related accounts on desktop devices.
+2. Regularly update software and firmware on devices.
+3. Utilize a password manager for strong, unique passwords.
+4. Implement parental controls to manage and restrict access to content.
+5. Use ad-blocking software to prevent malicious ads and pop-ups."
+
+home,desktops,entertainment,medium,17,"1. Regularly update software and firmware on desktop devices.
+2. Implement a password manager for enhanced password security.
+3. Use reputable antivirus software to detect and remove malware.
+4. Limit access to entertainment devices to authorized users.
+5. Secure home network with strong encryption and unique passwords."
+
+home,desktops,entertainment,low,14,"1. Maintain regular updates for software and firmware on desktop devices.
+2. Use a firewall to block unauthorized network traffic.
+3. Enable automatic updates for software and operating systems.
+4. Implement strong authentication mechanisms for device access.
+5. Educate family members on safe internet browsing habits."
+
+home,desktops,online transactions,high,27,"1. Enable two-factor authentication for online transaction accounts on desktop devices.
+2. Regularly update software and firmware on devices.
+3. Utilize a password manager for strong, unique passwords.
+4. Use secure payment gateways with encryption for online transactions.
+5. Monitor account activity for unauthorized transactions and unusual behavior."
+
+home,desktops,online transactions,medium,22,"1. Regularly update software and firmware on desktop devices.
+2. Implement secure browsing practices to avoid phishing scams and malicious websites.
+3. Use reputable antivirus software to detect and remove malware.
+4. Secure Wi-Fi networks with strong encryption and unique passwords.
+5. Avoid accessing sensitive information or making transactions on public Wi-Fi networks."
+
+home,desktops,online transactions,low,19,"1. Maintain regular updates for software and firmware on desktop devices.
+2. Enable firewall protection to block unauthorized access.
+3. Implement secure authentication methods, such as biometric or token-based authentication.
+4. Secure physical access to devices through locks or restricted access areas.
+5. Conduct regular security assessments and audits to identify vulnerabilities."
+
+home,IoT devices,work,high,21,"1. Enable two-factor authentication for work-related accounts on IoT devices.
+2. Regularly update software and firmware on all IoT devices.
+3. Utilize a password manager for strong, unique passwords.
+4. Implement network segmentation to isolate IoT devices from critical systems.
+5. Monitor IoT device activity for suspicious behavior and unauthorized access."
+
+home,IoT devices,work,medium,16,"1. Implement strong authentication methods, such as multi-factor authentication, for accessing work-related accounts on IoT devices.
+2. Regularly update software and firmware on all IoT devices to patch vulnerabilities and improve security.
+3. Utilize network encryption and secure protocols to protect data transmission between IoT devices and work systems.
+4. Implement access controls and permissions to restrict unauthorized access to sensitive work data.
+5. Monitor IoT device activity logs for anomalies and potential security breaches."
+
+home,IoT devices,work,low,13,"1. Regularly update software and firmware on IoT devices to address security vulnerabilities and enhance protection.
+2. Implement network segmentation to isolate work-related IoT devices from other networked devices.
+3. Use strong encryption methods to protect data stored and transmitted by IoT devices.
+4. Implement physical security measures to prevent unauthorized access to work-related IoT devices.
+5. Conduct regular security audits and assessments to identify and address potential security risks."
+
+home,IoT devices,entertainment,high,20,"1. Enable two-factor authentication for entertainment-related accounts on IoT devices to enhance account security.
+2. Regularly update software and firmware on IoT devices to patch known vulnerabilities and improve security.
+3. Utilize a password manager to generate and securely store strong, unique passwords for entertainment accounts.
+4. Implement content filtering and parental controls on IoT devices to restrict access to inappropriate content.
+5. Secure home network with strong encryption and firewall protection to prevent unauthorized access to entertainment devices."
+
+home,IoT devices,entertainment,medium,15,"1. Regularly update software and firmware on IoT devices to protect against emerging security threats and vulnerabilities.
+2. Use reputable antivirus software to detect and remove malware from entertainment devices.
+3. Implement network intrusion detection systems to monitor for suspicious activity on the network.
+4. Secure IoT device access with strong authentication mechanisms, such as biometric authentication or token-based authentication.
+5. Educate household members on safe internet browsing practices and the importance of maintaining device security."
+
+home,IoT devices,entertainment,low,12,"1. Maintain up-to-date software and firmware on IoT devices to address known security vulnerabilities.
+2. Implement strong encryption protocols for data transmission between entertainment devices and network resources.
+3. Disable unnecessary features and services on IoT devices to minimize attack surface.
+4. Use strong, unique passwords for each IoT device and change them regularly.
+5. Keep IoT devices physically secure and restrict access to authorized users only."
+
+home,IoT devices,online transactions,high,25,"1. Enable two-factor authentication for online transaction accounts on IoT devices to add an extra layer of security.
+2. Regularly update software and firmware on IoT devices to patch known vulnerabilities and protect against exploits.
+3. Utilize a password manager to generate and securely store strong, unique passwords for online transaction accounts.
+4. Use secure, encrypted Wi-Fi networks for online transactions to protect sensitive data during transmission.
+5. Monitor online transaction activity for suspicious transactions or unauthorized access to accounts."
+
+home,IoT devices,online transactions,medium,20,"1. Keep software and firmware up-to-date on IoT devices to protect against evolving security threats and vulnerabilities.
+2. Implement encryption protocols for secure data transmission during online transactions.
+3. Use reputable payment gateways and avoid sharing sensitive financial information on unsecured websites.
+4. Enable device firewalls to block unauthorized access to IoT devices and network resources.
+5. Educate household members on safe online transaction practices, such as avoiding public Wi-Fi networks for sensitive transactions."
+
+home,IoT devices,online transactions,low,17,"1. Regularly update software and firmware on IoT devices to address security vulnerabilities and improve protection.
+2. Use strong, unique passwords for online transaction accounts and change them regularly.
+3. Implement network monitoring tools to detect and respond to suspicious activity on IoT devices.
+4. Avoid accessing online transaction accounts on public or unsecured Wi-Fi networks.
+5. Secure IoT device access with strong authentication methods, such as biometric authentication or token-based authentication."
+
+office,laptops,work,high,30,"1. Enable two-factor authentication for work-related accounts on laptops to enhance account security.
+2. Regularly update software and firmware on laptops to patch known vulnerabilities and improve security.
+3. Utilize a password manager to generate and securely store strong, unique passwords for work accounts.
+4. Implement access controls and permissions to restrict unauthorized access to work-related data.
+5. Conduct regular security training for employees to raise awareness of potential threats and best security practices."
+
+office,laptops,work,medium,25,"1. Keep software and firmware up-to-date on laptops to protect against emerging security threats and vulnerabilities.
+2. Implement encryption protocols for data protection during transmission and storage on laptops.
+3. Use endpoint protection software, such as antivirus and anti-malware programs, to detect and mitigate security threats.
+4. Implement network segmentation to isolate work-related activities from other network traffic.
+5. Implement regular security audits and assessments to identify and address potential security risks."
+
+office,laptops,work,low,22,"1. Regularly update software and firmware on laptops to address security vulnerabilities and improve protection.
+2. Use strong, unique passwords for laptop accounts and change them regularly.
+3. Implement user training and awareness programs to educate employees about security best practices.
+4. Implement physical security measures to prevent unauthorized access to laptops and sensitive data.
+5. Implement data backup and recovery procedures to ensure continuity of operations in case of security incidents."
+
+office,laptops,entertainment,high,29,"1. Enable two-factor authentication for entertainment-related accounts on laptops to enhance account security.
+2. Regularly update software and firmware on laptops to patch known vulnerabilities and improve security.
+3. Utilize a password manager to generate and securely store strong, unique passwords for entertainment accounts.
+4. Implement content filtering and parental controls on laptops to restrict access to inappropriate content.
+5. Secure home network with strong encryption and firewall protection to prevent unauthorized access to entertainment devices."
+
+office,laptops,entertainment,medium,24,"1. Enable two-factor authentication for entertainment-related accounts on laptops to enhance account security.
+2. Regularly update software and firmware on laptops to patch known vulnerabilities and improve security.
+3. Utilize a password manager to generate and securely store strong, unique passwords for entertainment accounts.
+4. Implement content filtering and parental controls on laptops to restrict access to inappropriate content.
+5. Secure home network with strong encryption and firewall protection to prevent unauthorized access to entertainment devices."
+
+office,laptops,entertainment,low,21,"1. Regularly update software and firmware on laptops to protect against known security vulnerabilities.
+2. Implement network segmentation to isolate entertainment-related activities from sensitive work data.
+3. Use strong encryption methods to protect data stored and transmitted by entertainment devices.
+4. Implement access controls and permissions to restrict unauthorized access to entertainment-related data.
+5. Conduct regular security audits and assessments to identify and address potential security risks."
+
+office,laptops,online transactions,high,34,"1. Enable two-factor authentication for online transaction accounts on laptops to add an extra layer of security.
+2. Regularly update software and firmware on laptops to patch known vulnerabilities and protect against exploits.
+3. Utilize a password manager to generate and securely store strong, unique passwords for online transaction accounts.
+4. Use secure, encrypted Wi-Fi networks for online transactions to protect sensitive data during transmission.
+5. Monitor online transaction activity for suspicious transactions or unauthorized access to accounts."
+
+office,laptops,online transactions,medium,29,"1. Keep software and firmware up-to-date on laptops to protect against evolving security threats and vulnerabilities.
+2. Implement encryption protocols for secure data transmission during online transactions.
+3. Use reputable payment gateways and avoid sharing sensitive financial information on unsecured websites.
+4. Enable device firewalls to block unauthorized access to laptops and network resources.
+5. Educate employees on safe online transaction practices, such as avoiding public Wi-Fi networks for sensitive transactions."
+
+office,laptops,online transactions,low,26,"1. Regularly update software and firmware on laptops to address security vulnerabilities and improve protection.
+2. Use strong, unique passwords for online transaction accounts and change them regularly.
+3. Implement network monitoring tools to detect and respond to suspicious activity on laptops.
+4. Avoid accessing online transaction accounts on public or unsecured Wi-Fi networks.
+5. Secure laptop access with strong authentication methods, such as biometric authentication or token-based authentication."
+
+office,desktops,work,high,28,"1. Enable two-factor authentication for work-related accounts on desktops to enhance account security.
+2. Regularly update software and firmware on desktops to patch known vulnerabilities and improve security.
+3. Utilize a password manager to generate and securely store strong, unique passwords for work accounts.
+4. Implement access controls and permissions to restrict unauthorized access to work-related data.
+5. Conduct regular security training for employees to raise awareness of potential threats and best security practices."
+
+office,desktops,work,medium,23,"1. Keep software and firmware up-to-date on desktops to protect against emerging security threats and vulnerabilities.
+2. Implement encryption protocols for data protection during transmission and storage on desktops.
+3. Use endpoint protection software, such as antivirus and anti-malware programs, to detect and mitigate security threats.
+4. Implement network segmentation to isolate work-related activities from other network traffic.
+5. Implement regular security audits and assessments to identify and address potential security risks."
+
+office,desktops,work,low,20,"1. Regularly update software and firmware on desktops to address security vulnerabilities and improve protection.
+2. Use strong, unique passwords for desktop accounts and change them regularly.
+3. Implement user training and awareness programs to educate employees about security best practices.
+4. Implement physical security measures to prevent unauthorized access to desktops and sensitive data.
+5. Implement data backup and recovery procedures to ensure continuity of operations in case of security incidents."
+
+office,desktops,entertainment,high,27,"1. Enable two-factor authentication for entertainment-related accounts on desktops to enhance account security.
+2. Regularly update software and firmware on desktops to patch known vulnerabilities and improve security.
+3. Utilize a password manager to generate and securely store strong, unique passwords for entertainment accounts.
+4. Implement content filtering and parental controls on desktops to restrict access to inappropriate content.
+5. Secure home network with strong encryption and firewall protection to prevent unauthorized access to entertainment devices."
+
+office,desktops,entertainment,medium,22,"1. Regularly update software and firmware on desktops to protect against emerging security threats and vulnerabilities.
+2. Use reputable antivirus software to detect and remove malware from entertainment devices.
+3. Implement network intrusion detection systems to monitor for suspicious activity on the network.
+4. Secure desktop access with strong authentication mechanisms, such as biometric authentication or token-based authentication.
+5. Educate employees on safe internet browsing practices and the importance of maintaining device security."
+
+office,desktops,entertainment,low,19,"1. Maintain up-to-date software and firmware on desktops to address known security vulnerabilities.
+2. Implement strong encryption protocols for data transmission between entertainment devices and network resources.
+3. Disable unnecessary features and services on desktops to minimize attack surface.
+4. Use strong, unique passwords for each desktop account and change them regularly.
+5. Keep desktops physically secure and restrict access to authorized users only."
+
+office,desktops,online transactions,high,32,"1. Enable two-factor authentication for online transaction accounts on desktops to add an extra layer of security.
+2. Regularly update software and firmware on desktops to patch known vulnerabilities and protect against exploits.
+3. Utilize a password manager to generate and securely store strong, unique passwords for online transaction accounts.
+4. Use secure, encrypted Wi-Fi networks for online transactions to protect sensitive data during transmission.
+5. Monitor online transaction activity for suspicious transactions or unauthorized access to accounts."
+
+office,desktops,online transactions,medium,27,"1. Enable two-factor authentication for online transaction accounts on desktops to enhance account security.
+2. Regularly update software and firmware on desktops to patch known vulnerabilities and improve security.
+3. Utilize a password manager to generate and securely store strong, unique passwords for online transaction accounts.
+4. Implement secure browsing practices and avoid accessing sensitive information on public networks.
+5. Monitor online transactions for suspicious activity and report any unauthorized transactions immediately."
+
+office,desktops,online transactions,low,24,"1. Keep software and firmware up-to-date on desktops to protect against security vulnerabilities and threats.
+2. Use secure and encrypted connections when conducting online transactions to protect sensitive data.
+3. Implement multi-factor authentication for added security when accessing online transaction accounts.
+4. Regularly review and update privacy settings on online transaction accounts to control access to personal information.
+5. Be cautious of phishing attempts and avoid clicking on suspicious links or providing personal information to unknown sources."
+
+office,IoT devices,work,high,26,"1. Enable two-factor authentication for work-related accounts on IoT devices to enhance account security.
+2. Regularly update software and firmware on IoT devices to patch known vulnerabilities and improve security.
+3. Utilize network segmentation to isolate work-related activities from other IoT device traffic.
+4. Implement encryption protocols for data protection during transmission and storage on IoT devices.
+5. Implement access controls and permissions to restrict unauthorized access to work-related data stored on IoT devices."
+
+office,IoT devices,work,medium,21,"1. Keep software and firmware up-to-date on IoT devices to protect against emerging security threats and vulnerabilities.
+2. Implement strong authentication measures, such as biometric authentication, for accessing work-related accounts on IoT devices.
+3. Implement intrusion detection systems to monitor and detect unauthorized access or suspicious activity on IoT devices.
+4. Conduct regular security assessments and audits to identify and address potential security risks on IoT devices.
+5. Implement remote wipe and device tracking capabilities to secure work-related data in case of device loss or theft."
+
+office,IoT devices,work,low,18,"1. Regularly update software and firmware on IoT devices to address security vulnerabilities and improve protection.
+2. Implement user authentication and authorization mechanisms to control access to work-related data on IoT devices.
+3. Implement data encryption for sensitive information stored on IoT devices to prevent unauthorized access.
+4. Implement physical security measures to prevent unauthorized access to IoT devices and sensitive data.
+5. Implement regular backups of work-related data stored on IoT devices to ensure data integrity and availability."
+
+office,IoT devices,entertainment,high,25,"1. Enable two-factor authentication for entertainment-related accounts on IoT devices to enhance account security.
+2. Regularly update software and firmware on IoT devices to patch known vulnerabilities and improve security.
+3. Utilize a password manager to generate and securely store strong, unique passwords for entertainment accounts.
+4. Implement content filtering and parental controls on IoT devices to restrict access to inappropriate content.
+5. Secure home network with strong encryption and firewall protection to prevent unauthorized access to entertainment devices."
+
+office,IoT devices,entertainment,medium,20,"1. Keep software and firmware up-to-date on IoT devices to protect against security vulnerabilities and threats.
+2. Implement strong encryption protocols for data protection on entertainment-related IoT devices.
+3. Regularly monitor IoT devices for unusual activity or unauthorized access and take necessary action.
+4. Use secure Wi-Fi networks and implement network segmentation to isolate entertainment IoT devices from other devices.
+5. Implement access controls and permissions to restrict unauthorized access to entertainment-related data on IoT devices."
+
+office,IoT devices,entertainment,low,17,"1. Regularly update software and firmware on IoT devices to address security vulnerabilities and improve protection.
+2. Implement encryption for data stored on entertainment-related IoT devices to prevent unauthorized access.
+3. Utilize antivirus and malware protection software to detect and remove threats from entertainment IoT devices.
+4. Implement strong authentication mechanisms, such as biometric authentication, to access entertainment-related accounts on IoT devices.
+5. Implement regular security audits and assessments to identify and mitigate security risks on entertainment IoT devices."
+
+office,IoT devices,online transactions,high,30,"1. Enable two-factor authentication for online transaction accounts on IoT devices to enhance account security.
+2. Regularly update software and firmware on IoT devices to patch known vulnerabilities and improve security.
+3. Utilize encryption protocols for secure transmission of online transaction data on IoT devices.
+4. Implement secure browsing practices and avoid accessing sensitive information on unsecured networks.
+5. Monitor online transaction activities for suspicious behavior and report any unauthorized transactions immediately."
+
+office,IoT devices,online transactions,medium,25,"1. Keep software and firmware up-to-date on IoT devices to protect against emerging security threats and vulnerabilities.
+2. Implement multi-factor authentication for additional security when accessing online transaction accounts on IoT devices.
+3. Utilize virtual private networks (VPNs) to encrypt internet traffic and protect online transaction data on IoT devices.
+4. Implement secure password management practices, such as using strong and unique passwords for online transaction accounts.
+5. Implement device encryption to protect sensitive online transaction data stored on IoT devices from unauthorized access."
+
+office,IoT devices,online transactions,low,22,"1. Regularly update software and firmware on IoT devices to address security vulnerabilities and improve protection.
+2. Implement firewall protection and intrusion detection systems to safeguard online transaction data on IoT devices.
+3. Utilize secure payment methods and reputable online platforms for conducting transactions on IoT devices.
+4. Implement strong authentication measures, such as biometric authentication, for accessing online transaction accounts on IoT devices.
+5. Implement regular security checks and audits to identify and mitigate potential security risks on IoT devices used for online transactions."
